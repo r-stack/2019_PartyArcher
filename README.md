@@ -1,6 +1,6 @@
 # ちょきんでGO（仮）
 
-## 構築
+## 構成
 - src
   - About.vue 使ってない
   - Gacha.vue ガッチャ画面
