@@ -1,9 +1,13 @@
 <template>
   <div class="container">
+    <div>テスト画面遷移</div>
     <ul>
       <li>
         <v-link href="/">Home</v-link>
         <v-link href="/about">About</v-link>
+        <v-link href="/setting">Setting</v-link>
+        <v-link href="/gacha">Gacha</v-link>
+        <v-link href="/present">Present</v-link>
       </li>
     </ul>
 

@@ -1,4 +1,7 @@
 export default {
   '/': 'Home',
-  '/about': 'About'
+  '/aetting': 'Setting',
+  '/gacha': 'Gacha',
+  '/present': 'Present',
+  '/about': 'About',
 }
