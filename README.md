@@ -1,5 +1,10 @@
 # ちょきんでGO（仮）
 
+
+## 開発
+- 基本的には srcの下のroutes,layouts/main.vueでルート設定を作る
+- Pagesの下に各画面を作成して、ルート設定をすれば動く
+
 ## 構成
 - src
   - About.vue 使ってない
