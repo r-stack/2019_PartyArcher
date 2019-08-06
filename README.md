@@ -1,6 +1,12 @@
 # ちょきんでGO（仮）
 
-
+## 構築
+- src
+  - About.vue 使ってない
+  - Gacha.vue ガッチャ画面
+  - Home.vue ホーム画面（TOP)
+  - Present.vue 貯蓄がたまったらほしいものが郵送される画面	
+  - Setting.vue いろいろな設定用の画面（一つの画面を使いまわす）
 
 ## Build Setup
 - node.js
