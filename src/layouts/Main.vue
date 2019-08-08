@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div>テスト画面遷移</div>
+    <!--<div>テスト画面遷移</div>
     <ul>
       <li>
         <v-link href="/">Home</v-link>
@@ -10,13 +10,14 @@
         <v-link href="/present">Present</v-link>
       </li>
     </ul>
-
+    -->
     <slot></slot>
   </div>
 </template>
 
 <script>
   import VLink from '../components/VLink.vue'
+  import axios from 'axios'
 
   export default {
     components: {
@@ -26,10 +27,24 @@
 </script>
 
 <style scoped>
+  html {
+    height: 100%;
+    width: 411px; 
+    margin: 0px;
+    padding: 0px 0px;
+  }
+
+  body {
+    height: 100%;
+    width: 411px; 
+    margin: 0px;
+    padding: 0px 0px;
+  }
   .container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 15px 30px;
+    width: 411px; 
+    height:731px;
+    margin: 0px;
+    padding: 0px 0px;
     background: #f9f7f5;
   }
 </style>

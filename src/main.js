@@ -1,4 +1,6 @@
 import Vue from 'vue'
+// Ajax通信ライブラリ
+import axios from 'axios'
 import routes from './routes'
 
 const app = new Vue({
