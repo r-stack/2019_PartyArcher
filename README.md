@@ -27,6 +27,8 @@ npm run dev
 npm run build
 ```
 
+## その他
+- 本アプリの一部にゆるドラシル ツクール素材（©2014 CloverLab.,Inc.）を利用しています。
 
 
 For a detailed explanation of the build process, read the [docs for vue-loader](http://vuejs.github.io/vue-loader).
