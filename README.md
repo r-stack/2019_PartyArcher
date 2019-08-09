@@ -8,11 +8,11 @@
 ## 構成
 - src
   - About.vue 使ってない
-  - Gacha.vue ガッチャ画面
+  - Gacha.vue ガッチャ画面 -> 貯蓄がたまったらほしいものが郵送される
   - Home.vue ホーム画面（TOP)
-  - Present.vue 貯蓄がたまったらほしいものが郵送される画面	
-  - Setting.vue いろいろな設定用の画面（一つの画面を使いまわす）
-
+  - Present.vue 使ってない
+  - Setting.vue 使ってない
+  
 ## Build Setup
 - node.js
 
